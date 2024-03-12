@@ -1,0 +1,817 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\component.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\component.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\font.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\font.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\minimal.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\monthly.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\monthly.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\style-responsive.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\Lato-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Lato-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\arrow2.gif",
+      "PackagePath": "staticwebassets\\Admin\\images\\arrow2.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\bag.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\bag.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\banner_img.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\banner_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\cards.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\cards.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\cart.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\close.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\follow.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\follow.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\grid_view.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\grid_view.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\l1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\l2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\l3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\l4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\l5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\list_view.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\list_view.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\mail.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\minimal.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\nav-expand.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\nav-expand.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\next.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\p9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\p9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\pass.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\pass.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\s-icons.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\s-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\shipping.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\shipping.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\si.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\si.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\si1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\si1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\images\\si2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\si2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\cbpViewModeSwitch.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\cbpViewModeSwitch.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\classie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.dcjqaccordion.2.7.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dcjqaccordion.2.7.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.scrollTo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.scrollTo.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\jquery2.0.3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery2.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\monthly.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\monthly.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\raphael-min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\responsive-tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\responsive-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\script.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\Admin\\js\\simpleCart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\simpleCart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\css\\component.css",
+      "PackagePath": "staticwebassets\\css\\component.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\Lato-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Lato-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-25\\2b3230da-ddd9-4fff-98fb-2b47f345787a.jpg",
+      "PackagePath": "staticwebassets\\images\\Product-25\\2b3230da-ddd9-4fff-98fb-2b47f345787a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-25\\89556e65-3f9c-4e4c-906a-26cb057b60a2.jpg",
+      "PackagePath": "staticwebassets\\images\\Product-25\\89556e65-3f9c-4e4c-906a-26cb057b60a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-25\\af05f3bf-7fa2-4233-9449-73d158d38a95.jpg",
+      "PackagePath": "staticwebassets\\images\\Product-25\\af05f3bf-7fa2-4233-9449-73d158d38a95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-25\\ecae6abd-57fa-45cf-81b0-86403aa96700.jpeg",
+      "PackagePath": "staticwebassets\\images\\Product-25\\ecae6abd-57fa-45cf-81b0-86403aa96700.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-32\\75a7769f-8b74-432a-afd9-bdef4465d155.jpeg",
+      "PackagePath": "staticwebassets\\images\\Product-32\\75a7769f-8b74-432a-afd9-bdef4465d155.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-33\\0a3f643f-4728-4a21-9eeb-c1a59dde003d.jpeg",
+      "PackagePath": "staticwebassets\\images\\Product-33\\0a3f643f-4728-4a21-9eeb-c1a59dde003d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-33\\573c3015-e335-4da3-b8e5-e2a45d867f67.jpeg",
+      "PackagePath": "staticwebassets\\images\\Product-33\\573c3015-e335-4da3-b8e5-e2a45d867f67.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-33\\eb9a1f6c-d9e8-402d-ab85-2a54c94310ea.jpeg",
+      "PackagePath": "staticwebassets\\images\\Product-33\\eb9a1f6c-d9e8-402d-ab85-2a54c94310ea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-34\\5dcf7f66-ff37-4c83-a87f-509f1466ff38.jpg",
+      "PackagePath": "staticwebassets\\images\\Product-34\\5dcf7f66-ff37-4c83-a87f-509f1466ff38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-34\\c0e4ace7-8065-4727-82b5-ce3af638a436.jpg",
+      "PackagePath": "staticwebassets\\images\\Product-34\\c0e4ace7-8065-4727-82b5-ce3af638a436.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-34\\f044fa9e-2208-48ed-8c2e-d895f7c856b1.jpg",
+      "PackagePath": "staticwebassets\\images\\Product-34\\f044fa9e-2208-48ed-8c2e-d895f7c856b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-35\\2c0ff38a-dc27-45bf-8115-22df81046944.png",
+      "PackagePath": "staticwebassets\\images\\Product-35\\2c0ff38a-dc27-45bf-8115-22df81046944.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-35\\94ee11a6-b214-431a-a8aa-47dcb6dce7eb.png",
+      "PackagePath": "staticwebassets\\images\\Product-35\\94ee11a6-b214-431a-a8aa-47dcb6dce7eb.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-35\\9d3b73c5-8235-4624-a2bd-a81dae2267fe.png",
+      "PackagePath": "staticwebassets\\images\\Product-35\\9d3b73c5-8235-4624-a2bd-a81dae2267fe.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\Product-35\\a8a2ab7b-7dfc-435d-80a6-b43a48d60ebd.png",
+      "PackagePath": "staticwebassets\\images\\Product-35\\a8a2ab7b-7dfc-435d-80a6-b43a48d60ebd.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\arrow2.gif",
+      "PackagePath": "staticwebassets\\images\\arrow2.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\bag.png",
+      "PackagePath": "staticwebassets\\images\\bag.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\banner_img.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\cards.jpg",
+      "PackagePath": "staticwebassets\\images\\cards.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\11dc7c09-4584-4963-8308-6f7015e3b67c.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\11dc7c09-4584-4963-8308-6f7015e3b67c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\1942977a-8859-42d2-a2c5-5d98cf78f9eb.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\1942977a-8859-42d2-a2c5-5d98cf78f9eb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\1f76f174-642f-48a2-95be-cc998b1d1f60.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\1f76f174-642f-48a2-95be-cc998b1d1f60.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\25677275-ef21-4745-a4e6-ab80ba2b4d87.png",
+      "PackagePath": "staticwebassets\\images\\category\\25677275-ef21-4745-a4e6-ab80ba2b4d87.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\272d3c7b-b608-4b4f-8b63-d59d42ce3a43.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\272d3c7b-b608-4b4f-8b63-d59d42ce3a43.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\2c8bd74a-0d09-4042-a443-709b9b8ab16f.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\2c8bd74a-0d09-4042-a443-709b9b8ab16f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\2c9be4c8-e8d5-4524-b405-8f407dbb2ecb.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\2c9be4c8-e8d5-4524-b405-8f407dbb2ecb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\2ecd464b-6978-4185-8b8a-581fb7db8ca5.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\2ecd464b-6978-4185-8b8a-581fb7db8ca5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\2ecfe2a1-0103-439c-a46e-d6f243135cc2.png",
+      "PackagePath": "staticwebassets\\images\\category\\2ecfe2a1-0103-439c-a46e-d6f243135cc2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\2ef939b8-78f2-4719-935d-10e562abf3e9.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\2ef939b8-78f2-4719-935d-10e562abf3e9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\36d45bbe-26ca-426c-9d4e-6e3ced3220c4.MOV",
+      "PackagePath": "staticwebassets\\images\\category\\36d45bbe-26ca-426c-9d4e-6e3ced3220c4.MOV"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\3b2dbe6f-19cc-4a46-aa38-b4993486468a.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\3b2dbe6f-19cc-4a46-aa38-b4993486468a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\4ca6a671-6a76-460c-a429-bc171525607a.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\4ca6a671-6a76-460c-a429-bc171525607a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\5e8dcba4-3666-4654-a4ae-4cadae32436a.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\5e8dcba4-3666-4654-a4ae-4cadae32436a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\702d2fa7-3ec6-423f-aafe-75c5df824784.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\702d2fa7-3ec6-423f-aafe-75c5df824784.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\79a1a2ff-7310-4ffa-952c-edda03a8310a.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\79a1a2ff-7310-4ffa-952c-edda03a8310a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\91c1ca45-b3fc-45a4-87ff-0c0f24d69d9c.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\91c1ca45-b3fc-45a4-87ff-0c0f24d69d9c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\93d3fb52-0b2c-426f-800c-9b5dce570ef2.png",
+      "PackagePath": "staticwebassets\\images\\category\\93d3fb52-0b2c-426f-800c-9b5dce570ef2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\aa9907dc-c17d-410f-9668-cde90579d4e3.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\aa9907dc-c17d-410f-9668-cde90579d4e3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\ad62b95e-09e4-4af1-8cf7-1de80495334a.png",
+      "PackagePath": "staticwebassets\\images\\category\\ad62b95e-09e4-4af1-8cf7-1de80495334a.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\b36c0220-825c-40b7-92a8-d3db3eba4f2c.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\b36c0220-825c-40b7-92a8-d3db3eba4f2c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\c3192a34-79fd-448a-b383-842cb8d54c43.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\c3192a34-79fd-448a-b383-842cb8d54c43.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\c3f72eb5-fd95-4a8d-a5d1-f4a80f59e797.JPG",
+      "PackagePath": "staticwebassets\\images\\category\\c3f72eb5-fd95-4a8d-a5d1-f4a80f59e797.JPG"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\d61aa393-44dc-4a4b-81ee-99e69ffefbe9.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\d61aa393-44dc-4a4b-81ee-99e69ffefbe9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\da691beb-84e4-4f50-854f-a0510625dea7.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\da691beb-84e4-4f50-854f-a0510625dea7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\eba7056f-0fb2-40e5-931a-f5bb1a7aaede.JPG",
+      "PackagePath": "staticwebassets\\images\\category\\eba7056f-0fb2-40e5-931a-f5bb1a7aaede.JPG"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\ebbb7739-826a-46a8-846f-65a702b43ece.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\ebbb7739-826a-46a8-846f-65a702b43ece.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\eddec028-a184-41e3-9e6b-4ebcde209ca2.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\eddec028-a184-41e3-9e6b-4ebcde209ca2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\category\\faa4e0f4-b8e1-41bb-a724-5d11da56dec9.jpeg",
+      "PackagePath": "staticwebassets\\images\\category\\faa4e0f4-b8e1-41bb-a724-5d11da56dec9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\follow.png",
+      "PackagePath": "staticwebassets\\images\\follow.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\grid_view.png",
+      "PackagePath": "staticwebassets\\images\\grid_view.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\l1.jpg",
+      "PackagePath": "staticwebassets\\images\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\l2.jpg",
+      "PackagePath": "staticwebassets\\images\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\l3.jpg",
+      "PackagePath": "staticwebassets\\images\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\l4.jpg",
+      "PackagePath": "staticwebassets\\images\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\l5.jpg",
+      "PackagePath": "staticwebassets\\images\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\list_view.png",
+      "PackagePath": "staticwebassets\\images\\list_view.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\images\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\images\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\images\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\images\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\p9.jpg",
+      "PackagePath": "staticwebassets\\images\\p9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\s-icons.png",
+      "PackagePath": "staticwebassets\\images\\s-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\shipping.png",
+      "PackagePath": "staticwebassets\\images\\shipping.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\si.jpg",
+      "PackagePath": "staticwebassets\\images\\si.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\si1.jpg",
+      "PackagePath": "staticwebassets\\images\\si1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\images\\si2.jpg",
+      "PackagePath": "staticwebassets\\images\\si2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\cbpViewModeSwitch.js",
+      "PackagePath": "staticwebassets\\js\\cbpViewModeSwitch.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\classie.js",
+      "PackagePath": "staticwebassets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\responsive-tabs.js",
+      "PackagePath": "staticwebassets\\js\\responsive-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\Brocamp\\Eshop\\Eshop\\wwwroot\\js\\simpleCart.min.js",
+      "PackagePath": "staticwebassets\\js\\simpleCart.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Eshop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Eshop.props",
+      "PackagePath": "build\\Eshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Eshop.props",
+      "PackagePath": "buildMultiTargeting\\Eshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Eshop.props",
+      "PackagePath": "buildTransitive\\Eshop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

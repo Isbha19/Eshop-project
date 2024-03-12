@@ -1,0 +1,332 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/admin/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/admin/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/admin/css/component.css" rel="stylesheet" />
+    <link href="~/admin/css/flexslider.css" rel="stylesheet" />
+    <link href="~/admin/css/font.css" rel="stylesheet" />
+    <link href="~/admin/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/admin/css/jqvmap.css" rel="stylesheet" />
+    <link href="~/admin/css/lightbox.css" rel="stylesheet" />
+    <link href="~/admin/css/minimal.css" rel="stylesheet" />
+    <link href="~/admin/css/monthly.css" rel="stylesheet" />
+    <link href="~/admin/css/morris.css" rel="stylesheet" />
+    <link href="~/admin/css/style.css" rel="stylesheet" />
+    <link href="~/admin/css/style-responsive.css" rel="stylesheet" />
+    <a href="~/admin/fonts/fontawesome.otf"></a>
+    <a href="~/admin/fonts/fontawesome-webfont.eot"></a>
+    <a href="~/admin/fonts/fontawesome-webfont.ttf"></a>
+    <a href="~/admin/fonts/fontawesome-webfont.woff"></a>
+    <a href="~/admin/fonts/fontawesome-webfont.woff2"></a>
+    <a href="~/admin/fonts/glyphicons-halflings-regular.eot"></a>
+    <a href="~/admin/fonts/glyphicons-halflings-regular.ttf"></a>
+    <a href="~/admin/fonts/glyphicons-halflings-regular.woff"></a>
+    <a href="~/admin/fonts/glyphicons-halflings-regular.woff2"></a>
+    <a href="~/admin/fonts/lato-regular.ttf"></a>
+    <a href="~/admin/fonts/playfairdisplay-regular.ttf"></a>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+
+</head>
+<body>
+
+    <section id="container">
+        <!--header start-->
+        <header class="header fixed-top clearfix">
+            <!--logo start-->
+            <div class="brand">
+
+                <a href="index.html" class="logo">
+                    VISITORS
+                </a>
+
+                <div class="sidebar-toggle-box">
+                    <div class="fa fa-bars"></div>
+                </div>
+            </div>
+            <!--logo end-->
+
+            <div class="nav notify-row" id="top_menu">
+                <!--  notification start -->
+                <ul class="nav top-menu">
+                    <!-- settings start -->
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            <i class="fa fa-tasks"></i>
+                            <span class="badge bg-success">8</span>
+                        </a>
+                        <ul class="dropdown-menu extended tasks-bar">
+                            <li>
+                                <p class="">You have 8 pending tasks</p>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="task-info clearfix">
+                                        <div class="desc pull-left">
+                                            <h5>Target Sell</h5>
+                                            <p>25% , Deadline  12 June’13</p>
+                                        </div>
+                                        <span class="notification-pie-chart pull-right" data-percent="45">
+                                            <span class="percent"></span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="task-info clearfix">
+                                        <div class="desc pull-left">
+                                            <h5>Product Delivery</h5>
+                                            <p>45% , Deadline  12 June’13</p>
+                                        </div>
+                                        <span class="notification-pie-chart pull-right" data-percent="78">
+                                            <span class="percent"></span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="task-info clearfix">
+                                        <div class="desc pull-left">
+                                            <h5>Payment collection</h5>
+                                            <p>87% , Deadline  12 June’13</p>
+                                        </div>
+                                        <span class="notification-pie-chart pull-right" data-percent="60">
+                                            <span class="percent"></span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="task-info clearfix">
+                                        <div class="desc pull-left">
+                                            <h5>Target Sell</h5>
+                                            <p>33% , Deadline  12 June’13</p>
+                                        </div>
+                                        <span class="notification-pie-chart pull-right" data-percent="90">
+                                            <span class="percent"></span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </li>
+
+                            <li class="external">
+                                <a href="#">See All Tasks</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- settings end -->
+                    <!-- inbox dropdown start-->
+                    <li id="header_inbox_bar" class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            <i class="fa fa-envelope-o"></i>
+                            <span class="badge bg-important">4</span>
+                        </a>
+                        <ul class="dropdown-menu extended inbox">
+                            <li>
+                                <p class="red">You have 4 Mails</p>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="photo"><img alt="avatar" src="images/3.png"></span>
+                                    <span class="subject">
+                                        <span class="from">Jonathan Smith</span>
+                                        <span class="time">Just now</span>
+                                    </span>
+                                    <span class="message">
+                                        Hello, this is an example msg.
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="photo"><img alt="avatar" src="images/1.png"></span>
+                                    <span class="subject">
+                                        <span class="from">Jane Doe</span>
+                                        <span class="time">2 min ago</span>
+                                    </span>
+                                    <span class="message">
+                                        Nice admin template
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="photo"><img alt="avatar" src="images/3.png"></span>
+                                    <span class="subject">
+                                        <span class="from">Tasi sam</span>
+                                        <span class="time">2 days ago</span>
+                                    </span>
+                                    <span class="message">
+                                        This is an example msg.
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="photo"><img alt="avatar" src="images/2.png"></span>
+                                    <span class="subject">
+                                        <span class="from">Mr. Perfect</span>
+                                        <span class="time">2 hour ago</span>
+                                    </span>
+                                    <span class="message">
+                                        Hi there, its a test
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">See all messages</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- inbox dropdown end -->
+                    <!-- notification dropdown start-->
+                    <li id="header_notification_bar" class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+
+                            <i class="fa fa-bell-o"></i>
+                            <span class="badge bg-warning">3</span>
+                        </a>
+                        <ul class="dropdown-menu extended notification">
+                            <li>
+                                <p>Notifications</p>
+                            </li>
+                            <li>
+                                <div class="alert alert-info clearfix">
+                                    <span class="alert-icon"><i class="fa fa-bolt"></i></span>
+                                    <div class="noti-info">
+                                        <a href="#"> Server #1 overloaded.</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="alert alert-danger clearfix">
+                                    <span class="alert-icon"><i class="fa fa-bolt"></i></span>
+                                    <div class="noti-info">
+                                        <a href="#"> Server #2 overloaded.</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="alert alert-success clearfix">
+                                    <span class="alert-icon"><i class="fa fa-bolt"></i></span>
+                                    <div class="noti-info">
+                                        <a href="#"> Server #3 overloaded.</a>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- notification dropdown end -->
+                </ul>
+                <!--  notification end -->
+            </div>
+            <div class="top-nav clearfix">
+                <!--search & user info start-->
+                <ul class="nav pull-right top-menu">
+                    <li>
+                        <input type="text" class="form-control search" placeholder=" Search">
+                    </li>
+                    <!-- user login dropdown start-->
+                    <li class="dropdown">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            <img alt="" src="images/2.png">
+                            <span class="username">John Doe</span>
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu extended logout">
+                            <li><a href="#"><i class=" fa fa-suitcase"></i>Profile</a></li>
+                            <li><a href="#"><i class="fa fa-cog"></i> Settings</a></li>
+                            <li><a href="login.html"><i class="fa fa-key"></i> Log Out</a></li>
+                        </ul>
+                    </li>
+                    <!-- user login dropdown end -->
+
+                </ul>
+                <!--search & user info end-->
+            </div>
+        </header>
+        <!--header end-->
+        <!--sidebar start-->
+        <aside>
+            <div id="sidebar" class="nav-collapse">
+                <!-- sidebar menu start-->
+                <div class="leftside-navigation">
+                    <ul class="sidebar-menu" id="nav-accordion">
+                        <li>
+                            <a href="index.html">
+                                <i class="fa fa-dashboard"></i>
+                                <span>Dashboard</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a asp-area="Admin" asp-controller="Category" asp-action="Category">
+                                <i class="fa fa-layer-group"></i>
+                                <span>Categories</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-area="Admin" asp-controller="Product" asp-action="Product">
+                                <i class="fa-solid fa-dumpster"></i>
+                                <span>Products</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-area="Admin" asp-controller="Colors" asp-action="Colors">
+                                <i class="fa-solid fa-palette"></i>
+                                <span>Colors</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- sidebar menu end-->
+            </div>
+        </aside>
+        <!--sidebar end-->
+   
+        @RenderBody()
+        <partial name="_Notification.cshtml"/>
+
+        <!-- Corrected order for script references -->
+        <script src="~/admin/js/jquery.min.js"></script>
+        <script src="~/admin/js/jquery2.0.3.min.js"></script> 
+        <script src="~/admin/js/bootstrap.js"></script>
+        <script src="~/admin/js/bootstrap-3.1.1.min.js"></script>
+        <script src="~/admin/js/cbpviewmodeswitch.js"></script>
+        <script src="~/admin/js/classie.js"></script>
+        <script src="~/admin/js/imagezoom.js"></script>
+        <script src="~/admin/js/jquery.dcjqaccordion.2.7.js"></script>
+        <script src="~/admin/js/jquery.fileupload.js"></script>
+        <script src="~/admin/js/jquery.flexisel.js"></script>
+        <script src="~/admin/js/jquery.flexslider.js"></script>
+        <script src="~/admin/js/jquery.nicescroll.js"></script>
+        <script src="~/admin/js/jquery.scrollto.js"></script>
+        <script src="~/admin/js/jquery.slimscroll.js"></script>
+        <script src="~/admin/js/jquery.vmap.asia.js"></script>
+        <script src="~/admin/js/jquery.vmap.australia.js"></script>
+        <script src="~/admin/js/jquery.vmap.europe.js"></script>
+        <script src="~/admin/js/jquery.vmap.js"></script>
+        <script src="~/admin/js/jquery.vmap.sampledata.js"></script>
+        <script src="~/admin/js/jquery.vmap.world.js"></script>
+        <script src="~/admin/js/jquery.fileupload.js"></script>
+        <script src="~/admin/js/jquery2.0.3.min.js"></script>
+        <script src="~/admin/js/lightbox-plus-jquery.min.js"></script>
+        <script src="~/admin/js/monthly.js"></script>
+        <script src="~/admin/js/morris.js"></script>
+        <script src="~/admin/js/raphael-min.js"></script>
+        <script src="~/admin/js/responsiveslides.min.js"></script>
+        <script src="~/admin/js/responsive-tabs.js"></script>
+        <script src="~/admin/js/script.js"></script>
+        <script src="~/admin/js/scripts.js"></script>
+        <script src="~/admin/js/simplecart.min.js"></script>
+
+     
+</body>
+</html>
